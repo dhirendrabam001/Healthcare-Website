@@ -1,0 +1,281 @@
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .main-content {
+    margin-top: 30%;
+  }
+  .about-link {
+    left: 85%;
+    top: 55%;
+  }
+  .core-info .card-body h2 {
+    font-size: 27px;
+  }
+  .contact-info {
+    width: 90%;
+    margin-top: -27%;
+    margin-left: 20px;
+  }
+}
+
+/* max-width 768px */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .navbar-toggler {
+    background: navy !important;
+  }
+  .navbar .navbar-nav .nav-item .nav-link i {
+    color: black;
+  }
+  .nav-item i {
+    color: black !important;
+  }
+  .navbar-toggler i {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+  }
+  .navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 0 0rem;
+  }
+  .about-info span {
+    font-size: 20px;
+  }
+  .about-info h2 {
+    font-size: 35px;
+  }
+  .about-img {
+    padding: 9px 8px;
+  }
+  .about-bar {
+    left: 58%;
+    top: 84%;
+  }
+  .about-bar i {
+    font-size: 25px;
+  }
+  .about-link {
+    left: 88%;
+    top: 45%;
+  }
+  .about-link i {
+    font-size: 25px;
+  }
+  .portfolio-main {
+    overflow: hidden;
+    width: 100%;
+  }
+  .healthcare-content {
+    padding: 4px 10px !important;
+  }
+  .healthcare-content h5 {
+    font-size: 19px !important;
+  }
+  .contact-info {
+    padding: 8px 2px;
+    width: 100%;
+    left: -39% !important;
+  }
+  .contact-img img {
+    height: 400px !important;
+    margin-top: 50%;
+  }
+  .contact-call {
+    font-size: 10px;
+  }
+  .contact-right h4 {
+    font-size: 20px !important;
+  }
+  .contact-right h2 {
+    font-size: 25px !important;
+  }
+  .form-sec {
+    padding: 5px;
+  }
+  .form-info {
+    padding: 8px;
+  }
+  .last-para h4 {
+    font-size: 16px !important;
+  }
+  .new-main {
+    padding-bottom: 50px !important;
+  }
+  .healthcare-content a {
+    font-size: 16px;
+  }
+}
+
+/* 360px */
+@media (min-width: 360px) and (max-width: 480px) {
+  .navbar-toggler {
+    background: navy !important;
+  }
+  .navbar .navbar-nav .nav-item .nav-link i {
+    color: black;
+  }
+  .nav-item i {
+    color: black !important;
+  }
+  .navbar-toggler i {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+  }
+  .navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 0 0rem;
+  }
+  .main-page {
+    height: 60vh;
+  }
+  .main-content {
+    width: 100%;
+    margin-top: 40%;
+  }
+  .main-content h1 {
+    font-size: 55px;
+  }
+  .about-info span {
+    font-size: 20px;
+  }
+  .about-info h2 {
+    font-size: 31px;
+    margin-top: 12px;
+  }
+  .about-img img {
+    height: 50px;
+    width: 120px;
+    margin-left: 38px;
+    margin-top: 35px;
+  }
+  .about-info {
+    padding: 0px 0px !important;
+    margin-bottom: 0px !important;
+  }
+  .about-bar {
+    padding: 10px;
+    left: 40%;
+    top: 87%;
+  }
+  .about-bar i {
+    font-size: 35px;
+  }
+  .about-link {
+    padding: 10px;
+    left: 84%;
+    top: 45%;
+  }
+  .about-link i {
+    font-size: 35px;
+  }
+  .portfolio-main {
+    padding: 2px 0px !important;
+  }
+  .portfolio-main span {
+    font-size: 20px;
+  }
+  .portfolio-main h2 {
+    font-size: 32px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+  }
+  .healthcare-content {
+    padding: 0px 0px !important;
+    padding-bottom: 10px !important;
+  }
+  .healthcare-content a {
+    padding: 8px 18px;
+    font-size: 16px;
+  }
+  .healthcare-content {
+    padding: 0px 0px !important;
+  }
+  .quality-main h2 {
+    font-size: 35px;
+  }
+  .quality-btn {
+    text-align: center !important;
+  }
+  .product-main h5 {
+    font-size: 18px !important;
+  }
+  .product-main h2 {
+    font-size: 30px;
+    margin-top: 16px;
+  }
+  .core-main span {
+    font-size: 18px;
+  }
+  .core-main h2 {
+    font-size: 30px;
+    margin-top: 12px;
+  }
+  .core-main .card i {
+    font-size: 40px;
+  }
+  .core-info .card-body h2 {
+    font-size: 19px;
+  }
+  .contact-info {
+    width: 96%;
+    padding: 16px;
+    margin-top: -22%;
+    border-radius: 10px;
+    margin-left: 7px;
+  }
+  .contact-right {
+    margin-top: 30px;
+  }
+  .contact-right h4 {
+    font-size: 18px !important;
+  }
+  .contact-right h2 {
+    font-size: 25px !important;
+  }
+  .contact-main {
+    padding-bottom: 30px !important;
+  }
+  .form-info {
+    padding: 10px 5px;
+  }
+  .form-info input {
+    padding: 11px;
+  }
+  .form-btn button {
+    width: 94%;
+    padding: 9px;
+    margin-left: 10px;
+    font-size: 16px;
+  }
+  .contact-right h4 {
+    font-size: 15px !important;
+  }
+  .new-main {
+    padding-bottom: 40px !important;
+  }
+  .news-btn a {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 16px;
+  }
+  .footer-content {
+    margin-top: 0px;
+    text-align: center;
+  }
+  .footer-next {
+    text-align: start;
+    margin-left: 28%;
+  }
+  .social-media {
+    display: flex !important;
+    justify-content: center !important;
+  }
+  .footer-last {
+    height: 16vh;
+  }
+  .footer-last-content h6 {
+    font-size: 16px !important;
+    text-align: center;
+  }
+}
